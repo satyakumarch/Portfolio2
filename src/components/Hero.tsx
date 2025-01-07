@@ -6,9 +6,9 @@ const Hero = () => {
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-900 via-purple-900 to-pink-900 pt-16 animate-gradient bg-[length:400%_400%]">
       <div className="container mx-auto px-6 py-20 text-center">
         <div className="hero-image-container mb-12 perspective-1000">
-          <div className="transform-3d hover:rotate-y-0 rotate-y-[-15deg] transition-transform duration-500">
+        <div className="transform-3d hover:rotate-y-0 rotate-y-[-15deg] transition-transform duration-500">
             <img
-              src="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400&h=400&fit=crop"
+              src="/satya.jpg"
               alt="Profile"
               className="w-40 h-40 rounded-full mx-auto object-cover shadow-2xl border-4 border-indigo-400"
             />
@@ -29,7 +29,7 @@ const Hero = () => {
               Get in Touch
             </a>
             <a
-              href="/resume.pdf"
+              href="/SatyaKumarChaudhary.pdf"
               download
               className="flex items-center space-x-2 border-2 border-indigo-400 text-indigo-200 px-8 py-3 rounded-lg hover:bg-indigo-800/30 transition-all transform hover:scale-105"
             >

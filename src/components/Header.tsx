@@ -18,9 +18,9 @@ const Header = () => {
           <div className="flex items-center space-x-4">
             <div className="transform-3d hover:rotate-y-180 transition-transform duration-500">
               <img
-                src="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=100&h=100&fit=crop"
+                src="/satya.jpg"
                 alt="Profile"
-                className="w-10 h-10 rounded-full object-cover border-2 border-indigo-400"
+                className="w-10 h-12 rounded-full object-cover border-2 border-indigo-400"
               />
             </div>
             <div className="text-2xl font-bold text-white">
