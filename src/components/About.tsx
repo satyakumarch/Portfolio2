@@ -33,9 +33,12 @@ const About = () => {
         </div>
         <div className="mt-16 max-w-3xl mx-auto bg-white-50 p-8 rounded-xl shadow-lg">
           <p className="text-white-600 leading-relaxed text-center">
-            With over 5 years of experience in web development, I specialize in creating
-            responsive and performant web applications. I'm passionate about user experience
-            and constantly learning new technologies to stay at the forefront of web development.
+          I am Satya Kumar Chaudhary, a third-year Computer Science student 
+          and an aspiring Full Stack Developer. I specialize in creating
+           responsive and user-friendly web applications while continuously
+            enhancing my skills in modern technologies. I am dedicated to learning,
+             building, and innovating in the field of web development to create impactful digital experiences.
+
           </p>
         </div>
       </div>
