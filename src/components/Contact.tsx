@@ -37,11 +37,11 @@ const Contact = () => {
               </div>
               <div className="flex items-center">
                 <Phone className="text-indigo-400 mr-4" size={20} />
-                <span className="text-indigo-200">+1 (555) 123-4567</span>
+                <span className="text-indigo-200">+91 8934856824</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="text-indigo-400 mr-4" size={20} />
-                <span className="text-indigo-200">San Francisco, CA</span>
+                <span className="text-indigo-200">Lumbini,Nepal</span>
               </div>
             </div>
           </div>
