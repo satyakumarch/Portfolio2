@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'E-commerce Platform',
     description: 'A full-featured e-commerce platform built with React and Node.js',
-    image: 'src/components/ecommerce3-1.jpg',
+    image: '/ecommerce3-1.jpg',
     technologies: ['React', 'Node.js', 'MongoDB', ],
     liveUrl: 'https://ecommercesatya.netlify.app/',
     githubUrl: 'https://github.com/satyakumarch/ECommerce',
@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'Food website application',
     description: 'A collaborative food website application with real-time updates',
-    image: 'src/components/a14783f4-fe49-4c87-ad29-bb97d9b612e6-cover.png',
+    image: '/a14783f4-fe49-4c87-ad29-bb97d9b612e6-cover.png',
     technologies: ['React', 'Firebase', 'Tailwind CSS'],
     liveUrl: 'https://foodhub975.netlify.app/',
     githubUrl: 'https://github.com/satyakumarch/FoodHub',
@@ -21,7 +21,7 @@ const projects = [
   {
     title: 'Weather Dashboard',
     description: 'A weather forecasting application with interactive maps',
-    image: 'src/components/unnamed.png',
+    image: '/unnamed.png',
     technologies: ['React', 'OpenWeather API', 'Mapbox'],
     liveUrl: 'https://wldweatherapp.netlify.app/',
     githubUrl: 'https://github.com/satyakumarch/weather',

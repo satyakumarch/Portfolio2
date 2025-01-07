@@ -5,7 +5,7 @@ const skillCategories = [
     title: 'Front-End Development',
     skills: [
       { name: 'HTML/CSS', level: 95 },
-      { name: 'JavaScript (ES6+)', level: 90 },
+      { name: 'JavaScript ', level: 90 },
       { name: 'React.js', level: 88 },
       { name: 'Tailwind CSS', level: 85 },
       { name: 'Responsive Design', level: 92 },
