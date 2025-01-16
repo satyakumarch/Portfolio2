@@ -29,7 +29,7 @@ const Hero = () => {
               Get in Touch
             </a>
             <a
-              href="/SatyaKumarChaudhary.pdf"
+              href="SatyaKumarChaudhary.pdf"
               download
               className="flex items-center space-x-2 border-2 border-indigo-400 text-indigo-200 px-8 py-3 rounded-lg hover:bg-indigo-800/30 transition-all transform hover:scale-105"
             >
